@@ -1,0 +1,1 @@
+This repository demonstrates a common issue in Groovy related to handling null and collection parameters in methods.  The `bug.groovy` file shows the problematic code, where a method expects a collection but doesn't gracefully handle null input. The `bugSolution.groovy` demonstrates a robust solution using type checking and safe navigation.
